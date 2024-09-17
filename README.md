@@ -45,4 +45,5 @@ Commands if we are working from direct kafka ->
 
 .\bin\windows\kafka-topics.bat --create --topic emp-notification --bootstrap-server localhost:9092,localhost:9094,localhost:9096 --partitions 3 --replication-factor 3 
 --> used to create a topic with num of partition and replications -> Created topic emp-notification.
+
 ----------------------------------------------------------------------------------------------------------------------
